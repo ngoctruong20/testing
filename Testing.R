@@ -1,2 +1,3 @@
-print("Testing to see the difference")
+print("Today is Wednesday")
+
 
