@@ -1,3 +1,3 @@
-print("Today is Wednesday")
+print("Try again")
 
 
